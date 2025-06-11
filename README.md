@@ -1,5 +1,5 @@
 # ME6151
 
-The code is a solver for a square domain diffusion problem
+The code is a solver for a square domain (1m x 1m) diffusion problem.
 
-them mesh file has been provided
+The mesh file used for the domain has been provided.
